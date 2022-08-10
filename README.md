@@ -1,4 +1,4 @@
-# :point_right: [https://ironstone-fire-contact-app.netlify.app/)
+# :point_right: [Click here to see on browser](https://ironstone-fire-contact-app.netlify.app/)
 
 ### I used;
   - <b>firebase</b>
